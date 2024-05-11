@@ -1,0 +1,2 @@
+python FishDisease.py
+pause
